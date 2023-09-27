@@ -1,0 +1,32 @@
+body{
+    background-color: #5950f6;
+    font-family: sans-serif;
+}
+
+/* for the navigation menu */
+#navMenu{
+    position: absolute;
+    top: 0px;
+    right: 40px;
+}
+
+.navMenu{
+    font-size: 16px;
+    padding-left: 15px;
+    border: none;
+    display: inline-block;
+}
+
+#active{
+    color: white;
+    display: inline-block;
+}
+
+.link{
+    text-decoration: none;
+    color: #b6b3eb;
+}
+
+.link:hover{
+    color: white;
+}
