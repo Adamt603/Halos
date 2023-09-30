@@ -15,7 +15,7 @@ body{
     position: absolute;
     top: 0px;
     right: 40px;
-    width: 300px;
+    width: 400px;
 }
 
 .navMenu{
@@ -27,7 +27,7 @@ body{
 
 #active{
     font-size: 16px;
-    padding: 15px;
+    padding: 10px;
     color: white;
     border: none;
     width: fit-content;
@@ -41,4 +41,9 @@ body{
 
 .link:hover{
     color: white;
+}
+
+#signInPic{
+    width: 24px;
+    display: inline-block;
 }

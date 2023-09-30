@@ -2,3 +2,43 @@ body{
     background-color: #5950f6;
     font-family: sans-serif;
 }
+
+/* company name left corner*/
+#companyName{
+    color: white;
+    font-size: 30px;
+    width:70px;
+}
+
+/* for the navigation menu */
+#navMenu{
+    position: absolute;
+    top: 0px;
+    right: 40px;
+    width: 300px;
+}
+
+.navMenu{
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    display: inline-block;
+}
+
+#active{
+    font-size: 16px;
+    padding: 10px;
+    color: white;
+    border: none;
+    width: fit-content;
+    display: inline-block;
+}
+
+.link{
+    text-decoration: none;
+    color: #b6b3eb;
+}
+
+.link:hover{
+    color: white;
+}
